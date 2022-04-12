@@ -1,0 +1,324 @@
+Star Wars
+6
+George Lucas
+4
+
+Star Wars The Empire Strikes Back
+6
+George Lucas
+6
+
+Star Wars: Return of the Jedi 
+6
+George Lucas
+3
+
+Star Wars: The Phantom Menace
+6
+George Lucas
+7
+
+Star Wars: Attack of the Clones 
+6
+George Lucas
+4
+
+Star Wars: Revenge of the Sith 
+6
+George Lucas
+2
+
+Star Wars: The Clone Wars
+6
+George Lucas
+12
+
+Star Wars: The Force Awakens
+6
+George Lucas
+5
+
+Star Wars: Rogue One
+6
+George Lucas
+6
+
+Star Wars: The Last Jedi 
+6
+George Lucas
+7
+
+Star Wars: Solo
+6
+George Lucas
+12
+
+Star Wars: The Rise of Skywalker
+6
+George Lucas
+8
+
+Jhon Wick
+3
+Chad Stahelski
+6
+
+Jhon Wick 2
+3
+Chad Stahelski
+4
+
+Jhon Wick 3
+3
+Chad Stahelski
+4
+
+Rambo First blood
+3
+David Morrell
+7
+
+Rambo II
+3
+David Morrell
+8
+
+Rambo III
+3
+David Morrell
+2
+
+Rambo IV
+3
+David Morrell
+4
+
+Rambo V Last blood
+3
+David Morrell
+3
+
+IT
+1
+Andy Muschietti
+6
+
+The nun
+1
+Corin Hardy
+9
+
+Annabelle
+1
+David F. Sandberg
+10
+
+Annabelle 2
+1
+David F. Sandberg
+3
+
+Annabelle 3
+1
+David F. Sandberg
+4
+
+The Shining
+1
+Stanley Kubrick
+4
+
+Ghost busters
+2
+Ivan Reitman
+7
+
+Zoolander
+2
+Ben Stiller
+3
+
+The Mask
+2
+Chuck Russell
+2
+
+Deadpool
+2
+Tim Miller
+4
+
+Deadpool 2
+2
+Tim Miller
+4
+
+Sonic the movie
+2
+Jeff Fowler
+6
+
+Jojo Rabbit
+2
+Taika Waititi
+6
+
+Baywatch
+2
+Seth Gordon
+5
+
+Frozen
+4
+Jennifer Lee
+4
+
+Frozen 2
+4
+Jennifer Lee
+4
+
+WALL-E
+4
+Andrew Stanton
+2
+
+How to Train Your Dragon
+4
+Chris Sanders
+5
+
+Toy Story
+4
+John Lasseter
+7
+
+Toy Story 2
+4
+John Lasseter
+7
+
+Toy Story 3
+4
+John Lasseter
+7
+
+Ice Age
+4
+Chris Wedge
+3
+
+The Hobbit
+5
+Peter Jackson
+4
+
+Indiana Jones
+5
+Steven Spielberg
+4
+
+The lord of the rings
+5
+Peter Jackson
+2
+
+Tomorrowland
+5
+Brad Bird
+7
+
+The Revenant
+5
+Alejandro González Iñárritu
+5
+
+Divergent
+5
+Neil Burger
+3
+
+All the bright places
+7
+Brett Haley
+2
+
+Always Be My Maybe
+7
+Nahnatchka Khan
+4
+
+La La Land
+7
+Damien Chazelle
+5
+
+P.S. I Love You
+7
+Richard LaGravenese
+3
+
+The Last Summer
+7
+William Bindley
+5
+
+The Theory of Everything
+7
+James Marsh
+4
+
+Clueless
+7
+Amy Heckerling
+6
+
+Crazy, stupid, love
+7
+Glenn Ficarra
+2
+
+The great Gatsby
+7
+Baz Luhrmann
+5
+
+The Greatest Showman
+8
+Michael Gracey
+6
+
+Cats
+8
+Tom Hooper
+6
+
+Mamma Mia! Here We Go Again
+8
+Ol Parker
+7
+
+Rocketman
+8
+Dexter Fletcher
+2
+
+Mary Poppins Returns
+8
+Rob Marshall
+5
+
+Les Misérables
+8
+Tom Hooper
+9
+
+Hairspray
+8
+Adam Shankman
+4
+
+Annie
+8
+John Huston
+7
